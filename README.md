@@ -1,8 +1,10 @@
 # 🍳 ChefNova
 
-IMG_0036.jpeg
-
 > AI-powered cooking assistant to discover recipes, get smart ideas, and cook like a pro.
+
+## 📸 Preview
+
+![Home Screen](https://raw.githubusercontent.com/Abdullah-builder/ChefNova/main/IMG_0036.jpeg)
 
 ---
 
